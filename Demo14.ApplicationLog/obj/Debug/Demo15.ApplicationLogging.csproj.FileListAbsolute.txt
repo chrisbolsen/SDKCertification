@@ -1,0 +1,15 @@
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\obj\Debug\Demo15.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo15.ApplicationLog\obj\Debug\Demo15.ApplicationLog.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\obj\Debug\Demo15.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\obj\Debug\Demo15.ApplicationLog.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\bin\Debug\Demo15.ApplicationLog.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo15.ApplicationLog\obj\Debug\Demo15.ApplicationLogging.csprojResolveAssemblyReference.cache

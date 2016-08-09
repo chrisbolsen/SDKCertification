@@ -1,0 +1,8 @@
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\bin\Debug\Demo14.ApplicationLog.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\bin\Debug\Demo14.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\bin\Debug\Demo14.ApplicationLog.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\obj\Debug\Demo14.ApplicationLogging.csprojResolveAssemblyReference.cache
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\obj\Debug\Demo14.ApplicationLog.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode\Demo15.ApplicationLog\obj\Debug\Demo14.ApplicationLog.pdb

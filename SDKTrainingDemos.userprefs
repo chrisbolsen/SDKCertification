@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Demo1.Sessions/Demo01.Sessions.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo3.RetrieveLoan/Demo03Program.cs">
+    <Files>
+      <File FileName="Demo2.CreateLoan/Demo02Program.cs" Line="1" Column="1" />
+      <File FileName="Demo3.RetrieveLoan/Demo03Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
