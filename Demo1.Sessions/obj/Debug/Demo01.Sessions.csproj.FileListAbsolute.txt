@@ -1,0 +1,384 @@
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe.config
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Demo1.Sessions.pdb
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EncompassObjects.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EMLoanUtils15.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ClientServer.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EMBAM15.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EMCommon.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Client.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\VersionInterface15.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Jed.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\DataAccess.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EMExport.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Import.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Server.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Xml3WayMerge.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\UIElements.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\DocumentConverter.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\GdPicture.NET.9.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\GenuineChannels.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ClientSession.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ReportingDbUtils.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ServiceInterface.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Elli.Domain.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Elli.Service.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\itextsharp.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\ABCpdf.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Aspose.Words.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Interop.Word.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\GdPicture.NET.9.PDF.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Elli.Common.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Interop.Office.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\Interop.VBIDE.dll
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\bin\Debug\EncompassObjects.xml
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\obj\Debug\Demo01.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\obj\Debug\Demo1.Sessions.exe
+C:\Users\bboe\Documents\SDK Training\Demo1.Sessions\obj\Debug\Demo1.Sessions.pdb
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe.config
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.exe
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.pdb
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.pdb
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EncompassObjects.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EMLoanUtils15.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ClientServer.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EMBAM15.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EMCommon.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Client.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\VersionInterface15.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Jed.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\DataAccess.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EMExport.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Import.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Server.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Xml3WayMerge.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\UIElements.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\DocumentConverter.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\GenuineChannels.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ClientSession.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ReportingDbUtils.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ServiceInterface.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Domain.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Service.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\itextsharp.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\ABCpdf.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Aspose.Words.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Interop.Word.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Common.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Interop.Office.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Interop.VBIDE.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EncompassObjects.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\obj\Debug\Demo01.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\PostSharp.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.AdvCode.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.BusinessRules.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\HazelcastClient3x.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Diagnostics.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\EncompassCalculationSet.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\log4net.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\SimpleInjector.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Data.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\NHibernate.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.dll
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\PostSharp.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\log4net.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\SimpleInjector.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\NHibernate.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.xml
+C:\Users\bboe\Documents\SDK Training\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\obj\Debug\Demo1.Sessions.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Demo1.Sessions.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\obj\Debug\Demo01.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo1.Sessions\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe.config
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Demo1.Sessions.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\obj\Debug\Demo01.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\obj\Debug\Demo1.Sessions.exe
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated\Code as of 7-7-2016\Demo1.Sessions\obj\Debug\Demo1.Sessions.pdb
