@@ -1,0 +1,187 @@
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassAutomation.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\SgmlReaderDll.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ClientCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.JEDCOMBO2Lib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\SecurityManager.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Outlook.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EllieMae.Encompass.SmartClient.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassAutomation.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Demo12.CustomDataPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\bin\Debug\Demo12.CustomDataPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\obj\Debug\Demo12.CustomDataPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo12.CustomDataPlugin\obj\Debug\Demo12.CustomDataPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Demo12.CustomDataPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Demo12.CustomDataPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassAutomation.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\SgmlReaderDll.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ClientCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.JEDCOMBO2Lib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\SecurityManager.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Outlook.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EllieMae.Encompass.SmartClient.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassAutomation.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\obj\Debug\Demo12.CustomDataPlugin.csprojResolveAssemblyReference.cache
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\obj\Debug\Demo12.CustomDataPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo12.CustomDataPlugin\obj\Debug\Demo12.CustomDataPlugin.pdb

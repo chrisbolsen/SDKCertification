@@ -1,0 +1,187 @@
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassAutomation.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\SgmlReaderDll.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ClientCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.JEDCOMBO2Lib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\SecurityManager.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Outlook.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EllieMae.Encompass.SmartClient.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassAutomation.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Demo11.LoanEventPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\bin\Debug\Demo11.LoanEventPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\obj\Debug\Demo11.LoanEventPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updates\Code\Demo11.LoanEventPlugin\obj\Debug\Demo11.LoanEventPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Demo11.LoanEventPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Demo11.LoanEventPlugin.pdb
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassAutomation.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassObjects.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\SgmlReaderDll.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\UIElements.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ClientCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.JEDCOMBO2Lib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ClientSession.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EMCommon.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EMLoanUtils15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Client.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ClientServer.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EMBAM15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinSchedule.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\VersionInterface15.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Jed.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\PostSharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\DataAccess.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EMExport.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Import.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Server.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\SecurityManager.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Outlook.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Word.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EllieMae.Encompass.SmartClient.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\GdPicture.NET.10.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Xml3WayMerge.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.ElliEnum.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Interface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\DocumentConverter.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\GenuineChannels.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Shared.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.Misc.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.csiClickloanLib.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.AdvCode.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.BusinessRules.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Domain.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ServiceInterface.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.DirectoryServices.Contracts.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ReportingDbUtils.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\HazelcastClient3x.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Domain.Calculations.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassCalculationEngine.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngineIntegration.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngine.Core.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Service.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.DirectoryServices.Proxies.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Diagnostics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassCalculationSet.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.Office.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.VBIDE.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Metrics.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Metrics.NET.SignalFX.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\GdPicture.NET.10.PDF.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\itextsharp.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\ABCpdf.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Aspose.Words.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.1.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.CalculationEngine.Common.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\log4net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\SimpleInjector.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Bson.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Data.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Elli.Data.MongoDB.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\protobuf-net.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\NHibernate.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Driver.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Iesi.Collections.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassAutomation.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\EncompassObjects.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\PostSharp.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\log4net.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\SimpleInjector.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Bson.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\NHibernate.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\MongoDB.Driver.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\bin\Debug\Iesi.Collections.xml
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\obj\Debug\Demo11.LoanEventPlugin.csprojResolveAssemblyReference.cache
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\obj\Debug\Demo11.LoanEventPlugin.dll
+C:\Users\tmerkt\Documents\Course Material\SDK Cert\DemoCode_Updated as of 5-20-2016\Code\Demo11.LoanEventPlugin\obj\Debug\Demo11.LoanEventPlugin.pdb

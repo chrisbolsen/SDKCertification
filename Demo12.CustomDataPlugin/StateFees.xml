@@ -1,0 +1,4 @@
+<StateFees>
+  <FeeItem State="CA" Fee="150.00" />
+  <FeeItem State="NV" Fee="200.00" />
+</StateFees>
