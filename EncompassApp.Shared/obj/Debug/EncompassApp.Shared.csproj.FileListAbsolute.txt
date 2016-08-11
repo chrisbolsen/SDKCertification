@@ -1,0 +1,4 @@
+C:\SDK Training\Custom\EncompassApp\EncompassApp.Shared\bin\Debug\EncompassApp.Shared.dll
+C:\SDK Training\Custom\EncompassApp\EncompassApp.Shared\bin\Debug\EncompassApp.Shared.pdb
+C:\SDK Training\Custom\EncompassApp\EncompassApp.Shared\obj\Debug\EncompassApp.Shared.dll
+C:\SDK Training\Custom\EncompassApp\EncompassApp.Shared\obj\Debug\EncompassApp.Shared.pdb

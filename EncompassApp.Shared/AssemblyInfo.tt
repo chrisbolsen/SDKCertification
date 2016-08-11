@@ -1,0 +1,53 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ import namespace="System.IO" #>
+<#@ output extension=".cs" #>
+<#
+     int major = 1; 
+     int minor = 0; 
+     int build = 0; 
+     int rev   = 0; 
+  
+     try
+     {
+         using(var f = File.OpenText(Host.ResolvePath("AssemblyInfo.cs")))
+         {
+             string szMajor = f.ReadLine().Replace("//","");
+             string szMinor	= f.ReadLine().Replace("//","");
+			 string szBuild = f.ReadLine().Replace("//","");
+			 string szRev   = f.ReadLine().Replace("//","");
+			 
+             major	 = int.Parse(szMajor);		  
+             minor	 = int.Parse(szMinor);
+			 build   = int.Parse(szBuild);
+			 rev     = int.Parse(szRev) + 1;
+         }
+     }
+     catch
+     {
+     }
+	 
+#>
+//<#= major #>
+//<#= minor #>
+//<#= build #>
+//<#= rev #>
+
+using System.Reflection;
+using System.Resources;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("EllieMae")]
+[assembly: AssemblyCulture("")]
+[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
+
+[assembly: AssemblyTitle("")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyDescription("Encompass SDK")]
+[assembly: AssemblyCopyright("Copyright © EllieMae 2016")]
+[assembly: AssemblyTrademark("")]
+
+[assembly: ComVisible(false)]
+
+[assembly: AssemblyFileVersion("<#= major #>.<#= minor #>.<#= build #>.<#= rev #>")]
